@@ -38,7 +38,7 @@ npm install
 REACT_APP_BACKEND_API = https://roots-be-production.up.railway.app/ // or use your own
 
 ```
-
+Live Demo : https://roots-fe.vercel.app/
 ### How To
 
 How to use this app
