@@ -24,6 +24,7 @@ This is an example of how to list things you need to use the software and how to
 * [nodejs](https://nodejs.org/en/download/)
 
 ### Installation
+Live Demo : https://roots-fe.vercel.app/
 
 1. Clone the repo
 ```sh
@@ -38,7 +39,6 @@ npm install
 REACT_APP_BACKEND_API = https://roots-be-production.up.railway.app/ // or use your own
 
 ```
-Live Demo : https://roots-fe.vercel.app/
 ### How To
 
 How to use this app
