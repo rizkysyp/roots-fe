@@ -69,7 +69,7 @@ function AddComponent() {
           </div>
           <div className="w-1/2 pl-4">
             <InputSimple
-              label="First Name"
+              label="Kode Kota"
               placeholder="Kode Kota"
               name="code"
               onChange={(e) => setKode(e.target.value)}
